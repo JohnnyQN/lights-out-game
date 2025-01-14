@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lights-out-game/static/css/main.c9e8c715.css",
+    "main.js": "/lights-out-game/static/js/main.d47c13b6.js",
+    "static/js/488.9d28cbe2.chunk.js": "/lights-out-game/static/js/488.9d28cbe2.chunk.js",
+    "index.html": "/lights-out-game/index.html",
+    "main.c9e8c715.css.map": "/lights-out-game/static/css/main.c9e8c715.css.map",
+    "main.d47c13b6.js.map": "/lights-out-game/static/js/main.d47c13b6.js.map",
+    "488.9d28cbe2.chunk.js.map": "/lights-out-game/static/js/488.9d28cbe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e8c715.css",
+    "static/js/main.d47c13b6.js"
+  ]
+}
