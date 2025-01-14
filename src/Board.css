@@ -1,0 +1,13 @@
+.Board {
+  margin: 20px auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.Board table {
+  border-spacing: 10px;
+}
+
+.Board td {
+  padding: 5px;
+}
